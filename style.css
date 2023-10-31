@@ -1,0 +1,218 @@
+/* @import url(https://fonts.googleapis.com/css?family=Public+Sans:100,200,300,regular,500,600,700,800,900,100italic,200italic,300italic,italic,500italic,600italic,700italic,800italic,900italic);
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+:root {
+  /* primary color 
+
+  --Dark-Blue: hsl(233, 26%, 24%);
+  --Lime-Green: hsl(136, 65%, 51%);
+  --Bright-Cyan: hsl(192, 70%, 51%);
+
+  /* Neutral 
+
+  --Grayish-Blue: hsl(233, 8%, 62%);
+  --Light-Grayish-Blue: hsl(220, 16%, 96%);
+  --Very-Light-Gray: hsl(0, 0%, 98%);
+  --White: hsl(0, 0%, 100%);
+}
+
+body {
+    font-size: 1.125rem;
+    font-family: "Public Sans";
+    /* padding: 2rem; 
+}
+
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: var(--White);
+    padding: 1rem;
+}
+
+nav {
+    display: flex;
+}
+
+nav > ul {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 2rem;
+    list-style: none;
+    color: var(--Grayish-Blue);
+}
+
+nav > ul > li:hover {
+    border-bottom: 2px solid var(--Bright-Cyan);
+    transition: all .8s ease-in-out;
+    margin-top: 1rem;
+    cursor: pointer;
+}
+
+button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 150px;
+    height: 50px;
+    padding: 0.8rem;
+    border-radius: 20px;
+    border: none;
+    background: linear-gradient(80deg, var(--Lime-Green)30%, var(--Bright-Cyan)100% );
+    color: var(--White);
+}
+
+.hero-section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    overflow: hidden;
+    height: 100svh;
+    
+}
+
+.hero_section_bg-img {
+    background: url(../images/bg-intro-desktop.svg);
+    background-size: cover;
+    position: absolute;
+    top: -7.5rem;
+    right: -10rem;
+
+}
+
+.hero_section_bg-img > img {
+    width: 100%;
+}
+
+.easybank {
+    background: rgb(241, 236, 236);
+    height: 100svh; 
+     position: relative; 
+    top: -6rem; 
+     z-index: -1;
+}
+
+
+
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+  
+}
+
+/* #root {
+    height: 100vh;
+} */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+  
+}
+
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: whitesmoke;
+    padding: 1rem;
+}
+
+nav {
+    display: flex;
+}
+
+nav > ul {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 2rem;
+    list-style: none;
+}
+
+header > button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 150px;
+    height: 50px;
+    padding: .8rem .8rem;
+    border-radius: 20px;
+    border: none;
+    background: linear-gradient(90deg, rgba(34,193,195,1) 0%, rgba(181,219,97,1) 39%, rgba(114,226,111,1) 57%, rgba(178,253,45,0.8155637254901961) 100%);
+    color: #fff;
+}
+
+.hero-section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    overflow: hidden;
+    /* height: 100svh; */
+    background: url(../images/bg-intro-desktop.svg);
+    background-repeat: no-repeat;
+    background-position: 550px -250px;
+    
+}
+
+.hero_section_bg-img {
+   
+ 
+    position: relative;
+    top: -8rem;
+    right: -8rem;
+    
+    
+    z-index: 2000;
+    
+}
+
+.hero_section_bg-img > div  {
+    width: 100%;
+  
+
+    .hero_section_bg-img > div > img {
+        width: 100%;
+    }
+}
+
+
+
+.easybank {
+    background: rgb(241, 236, 236);
+    
+     position: relative; 
+    top: -15rem; 
+     z-index: -1;
+     padding-top: 2rem;
+}
+
+ul > li:hover {
+    border-bottom: 2px solid cyan;
+    transition: all .5s ease-in-out;
+    cursor: pointer;
+}
+
+
+
+
+
+
+ 
